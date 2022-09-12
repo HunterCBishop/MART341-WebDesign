@@ -1,1 +1,3 @@
-
+1- A directory is simply a folder that has connection points to either a parent or child or both. It allows different pages to be connected to each other, and contains its own information as well. 
+2- Version Control Systems let you go back to a previous itteration of your project if you broke something, or simply don't like a design choice you made. Seems very useful. 
+3- Personally my favorite artistic medium is probably either film or painting, really depends on the day!
