@@ -1,0 +1,17 @@
+1]
+
+An ip adress is simply a number that identifies your device to other devices. It allows for the easy back-and-forth
+information flow required for most internet use. A DNS server can interpret your request of a domain name say www.youtube.com 
+and then translate that request into the ip adress of the aformentioned site. If the DNS server doesnt have the ip adress of the 
+domain name requested it will find a DNS server that does. 
+
+2]
+
+A cookie is a piece of information that your computer stores to ease your use of websites you visit. Its essentially an ID number 
+that your computer sends a websites server to tell it who you are, allowing the server to send you your personalized data. 
+
+3]
+
+Protocol: The agreed upon method of transfering the subsequent data
+Domain: An individual ID that cannot be shared between multiple sites. Allows users to get where they need to go.
+Paths: A specific location inside the directory of the domain you are visiting. 
