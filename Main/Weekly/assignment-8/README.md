@@ -1,3 +1,4 @@
+NOTE: MY VIDEO FILE WAS TOO LARGE TO UPLOAD TO GITHUB BUT THE LINK DOES WORK LOCALLY FOR ME!!!<br/>
 An affordance is the visual assumption of somethings purpose as well as its actual purpose. In the context of design <br/>
 a power button symbol affords that it will turn something on or off, as it has been used this way for many years.<br/>
 <br/>
