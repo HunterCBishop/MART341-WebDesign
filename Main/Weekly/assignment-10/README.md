@@ -12,4 +12,4 @@ proffesional looking.
 will help my work alot in the future I think.
 <br/>
 <br/>
-![Screenshot](./images/screenshot.png)
+![Screenshot](.images/screenshot.png)
