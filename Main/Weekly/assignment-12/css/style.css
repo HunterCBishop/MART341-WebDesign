@@ -1,0 +1,184 @@
+body {
+    background-color: #829AB6;
+}
+
+
+#headerobj {
+    display: grid;
+    background-color: #F0FFFF;
+    border:30px solid #57677A;
+    border-radius: 4px;
+    line-height: 0%;
+
+}
+#logo{
+    z-index: 2;
+}
+
+#imagebank{
+    z-index: 1;
+	margin: auto;
+
+    
+}
+
+header {
+    position:absolute;
+    background-color: #F0FFFF;
+    font-family:Kanit;
+    border:10px solid #57677A;
+    border-radius: 20px;
+    padding:8px;
+    margin:0px;
+}
+
+header a {
+    text-decoration: none;
+    color:black;
+}
+.headdrop{
+    display: inline-block;
+}
+.headdrop {
+    display:none;
+    
+    margin: -2px 1 0 50px;
+    background-color: #F0FFFF;
+    z-index: 3;
+}
+.headparent:hover .headdrop{
+    display:block;
+    transition: .15s;
+}
+header:hover {
+    background-color:#911023;
+}
+.headdrop:hover {
+    border:5px solid #57677A;
+}
+
+
+.headvis {
+    grid-column: 2;
+    grid-row: 1;
+}
+
+.headtext{
+    font-style:normal;
+    font-size: 45px;
+    font-family:Kanit;
+    grid-row:1;
+    margin:auto;
+}
+
+#left{
+    grid-column:1;
+    width:15%
+}
+
+
+#right{
+    grid-column: 3;
+    width: 70%;
+}
+
+
+#content{
+    font-style:oblique;
+    font-size: 45px;
+    font-family:monospace;
+    text-align: center;
+    width: 10em;
+    margin:auto;
+}
+
+
+#about{
+    font-weight: bold;
+    text-align: center;
+    font-style:oblique;
+    font-size: 35px;
+    font-family:monospace;
+}
+#line1,#line2,#line3,#line4{   
+    transition: 0.3s;
+}
+.abouttxt:hover{
+    background-color: #911023;
+}
+
+#logo{
+    margin:auto;
+}
+
+
+#selectobj{
+    text-decoration: none;
+    margin-top: 40px;
+    font-family: Kanit;
+    font-style: normal;
+    display:grid;
+    font-size: 60px;
+    transition: 0.3s;
+}
+
+#selectobj:hover{
+    letter-spacing: 6px;
+    transition: 0.3s;
+}
+
+#b1, #b2, #b3{
+    grid-row: 1;
+    margin:auto;
+    background-color: #F0FFFF;
+    width: fit-content;
+    height: fit-content;
+    border:23px solid #57677A;
+    border-radius: 4px;
+    
+}
+.dec {
+    text-decoration: none;
+    font-weight:500;
+}
+
+#selectobj a{
+    color:black;
+}
+form{
+    font-family: monospace;
+	text-align: center;
+    font-size: large;
+}
+.galparent {
+    border:5px solid #57677A;
+    background-color: #F0FFFF;
+    margin-top: 20px;
+}
+.galparent a{
+    font-family:Kanit;
+    text-decoration: none;
+    color: black;
+}
+
+.galdrop{
+    display: inline-block;
+    
+}
+.galdrop {
+    display:none;
+    font-size: 30px;
+    margin: -2px 1 0 50px;
+    background-color: #F0FFFF;
+    z-index: 3;
+}
+.galparent:hover .galdrop{
+    display:block;
+    transition: .3s;
+}
+.galdrop:hover {
+    background-color:#911023;
+}
+.galdrop:hover {
+    border:5px solid #57677A;
+}
