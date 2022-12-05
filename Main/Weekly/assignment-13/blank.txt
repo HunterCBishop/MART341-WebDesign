@@ -1,0 +1,49 @@
+#829AB6
+
+        <nav>
+        <div id="selectobj">
+            <div id="b1">
+                <a class="dec" href="about.html">About</a>
+            </div>
+            <div id="b2">
+                <a class="dec" href="gallery.html">Gallery</a>
+            </div>
+            <div id="b3">
+                <a class="dec" href="contact.html">Contact</a>
+            </div>
+        </div>
+    </nav>
+
+    border:23px solid #57677A;
+
+    #b1, #b2, #b3{
+    grid-row: 1;
+    margin:auto;
+    background-color: #F0FFFF;
+    transition: 0.3s;
+    
+}
+
+
+
+#left{
+    grid-column:1;
+    width:15%
+}
+
+
+#right{
+    grid-column: 3;
+    width: 70%;
+}
+#imagebank{
+    z-index: 1;
+	margin: auto;
+
+    
+}
+.headvis {
+    grid-column: 2;
+    grid-row: 1;
+    
+}
